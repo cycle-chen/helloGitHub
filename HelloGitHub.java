@@ -3,6 +3,7 @@ public class HelloGitHub{
      System.out.println("Hello GitHub!");
      int i= 10;
      int k = 20;
-     Int j = 20;
+ 
+     int f = 20;
   }
 }
